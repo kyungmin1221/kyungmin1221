@@ -1,4 +1,4 @@
-### Hi there 👋
+### WELCOME KyungMin GITHUB 👋
 
 <!--
 **kyungmin1221/kyungmin1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
