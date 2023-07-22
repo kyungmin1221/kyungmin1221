@@ -1,4 +1,16 @@
-### Hi there 👋
+### 👋 WELCOME KYUNGMIN GITHUB 👋
+## 💬 fox9872@naver.com 
+
+![](https://img.shields.io/badge/Unity-000000.svg)
+![](https://img.shields.io/badge/C++-00599C.svg)
+![](https://img.shields.io/badge/Java-ED8B00.svg)
+![](https://img.shields.io/badge/Kotlin-0095D5.svg)
+![](https://img.shields.io/badge/%20OpenPose-%2300008B)
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Swift-FF4500?style=flat&logo=Swift&logoColor=white" />
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white" />
+![](https://img.shields.io/badge/%20-AWS-red)
+
 
 <!--
 **kyungmin1221/kyungmin1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
