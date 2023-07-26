@@ -1,6 +1,5 @@
 ### 👋 WELCOME KYUNGMIN GITHUB 👋
-## 💬 fox9872@naver.com 
-## 💬 kookps68@gamail.com 
+## 💬 fox9872@naver.com / kookps68@gamail.com 
 
 ![](https://img.shields.io/badge/Unity-000000.svg)
 ![](https://img.shields.io/badge/C++-00599C.svg)
