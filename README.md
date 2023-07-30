@@ -31,4 +31,6 @@ fox9872@naver.com /
 kookps68@gmail.com
 
 ### ✏️ My velog .. 
-<a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> 
+<a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+<a href="https://kyungmin1221.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
+
