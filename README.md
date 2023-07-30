@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👨‍💻 I'm studying .. 
+### 🧑🏻‍💻 I'm studying .. 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 fox9872@naver.com /
 kookps68@gmail.com
 
-### 📫 My velog .. 
+### ✏️ My velog .. 
 <a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> 
