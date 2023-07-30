@@ -21,11 +21,9 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 I'm learning ..
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+### contact
+fox9872@naver.com
+kookps68@gamil.com
 
-
-### 🌱 Focus On
-<img src="https://img.shields.io/badge/Algorithms-00BCB4?style=flat&logo=The Algorithms&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/>
-
-
-### 📫 How to reach me
+### 📫 My velog
 <a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a> 
