@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👨‍💻 I'm learning ..
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/> <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=flat&logo=Amazon RDS&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white"/> 
 ### contact
 fox9872@naver.com /
 kookps68@gmail.com
