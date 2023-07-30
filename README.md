@@ -16,7 +16,19 @@ Here are some ideas to get you started:
 -->
 
 ### 👨‍💻 I'm learning ..
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=NestJS&logoColor=white"/>  <img src="https://img.shields.io/badge/AWS Lambda-FF9900?style=flat&logo=AWSLambda&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon ECS-FF9900?style=flat&logo=Amazon ECS&logoColor=white"/> 
+
+![](https://img.shields.io/badge/%20OpenPose-%2300008B)
+<img src="https://img.shields.io/badge/YOLOv8-F79025?style=flat&logo=YOLO&logoColor=white" /> <img src="https://img.shields.io/badge/YOLOv5-000000?style=flat&logo=YOLO&logoColor=white" /> ![](https://img.shields.io/badge/%20SORT-%234B0082)
+
+<img src="https://img.shields.io/badge/OpenCV-v4.7.0-000000?style=flat&logo=OpenCv&logoColor=white" /> <img src="https://img.shields.io/badge/Pytorch-v2.0.0+cu117-000000?style=flat&logo=PyTorch&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FF4500?style=flat&logo=Swift&logoColor=white" />
+
+<img src="https://img.shields.io/badge/raspberrypi-A22846?style=flat&logo=raspberrypi&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" />
+![](https://img.shields.io/badge/%20-GoormIDE-blue)
+ <img src="https://img.shields.io/badge/Colab-FFDB00?style=flat&logo=Google Colab&logoColor=orange" />
+
+<img src="https://img.shields.io/badge/Flask-98FB98?style=flat&logo=Flask&logoColor=black" /> <img src="https://img.shields.io/badge/NaverMapAPI-2E8B57?style=flat&logo=Naver&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 ### contact
 fox9872@naver.com /
 kookps68@gmail.com
