@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 ### fox9872@naver.com 
 ### kookps68@gmail.com
 
-### ✏️ My velog 
+### ✏️ My Velog 
 <a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
+### 📝 My TISTORY
+
+📎 [TISTORY](https://kyungmin1221.tistory.com)
 
