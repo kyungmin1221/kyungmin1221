@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 
 
-### 📞 Contact
-### fox9872@naver.com 
-### kookps68@gmail.com
+### 📩 Contact My Email
+### [NAVER](fox9872@naver.com) 
+### [Google](kookps68@gmail.com)
 
 ### ✏️ My Velog 
 <a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
