@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ### ✏️ My Velog 
 <a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
-### 📝 My TISTORY
+### 📝 MY TISTORY
 
-📎 [TISTORY](https://kyungmin1221.tistory.com)
+### [TISTORY](https://kyungmin1221.tistory.com)
 
