@@ -4,9 +4,6 @@
 ### | BLOG 
 <a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
-### | Portfolio Notion 
-
-<a href="https://pinnate-plywood-632.notion.site/Portfolio-e9270f6e071046c1a02a3543a305c97a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungmin1221)](https://github.com/kyungmin1221/github-readme-stats) [![Solved.ac
