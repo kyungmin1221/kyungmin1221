@@ -25,7 +25,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyungmin1221)](https://github.com/kyungmin1221/github-readme-stats) [![Solved.ac
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=kyungmin1221&show_icons=true&theme=vision-friendly-dark"> [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungmin1221)](https://solved.ac/kyungmin1221)
 
 
@@ -35,7 +35,6 @@
 ### 📩 Contact My Email
 ###  fox9872@naver.com
 ###  kookps68@gmail.com
-
 
 
 
