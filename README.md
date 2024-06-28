@@ -9,13 +9,18 @@
 
 #### 앞으로도 지속적으로 성장하고, 기본에 충실하는 개발자가 되고자 합니다.
 
+---
 
 ### | BLOG 
 <a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
+---
+
 ### | Notion 
 
 <a href="https://pinnate-plywood-632.notion.site/Portfolio-e9270f6e071046c1a02a3543a305c97a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+
+---
 
 ### 🧑🏻‍💻 What am I studying ..
 
@@ -25,16 +30,24 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=kyungmin1221&show_icons=true&theme=vision-friendly-dark"> [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungmin1221)](https://solved.ac/kyungmin1221)
+
+---
+
+<p align="center">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=kyungmin1221&show_icons=true&theme=vision-friendly-dark">
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/kyungmin1221">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=kyungmin1221" alt="Solved.ac 프로필">
+  </a>
+</p>
 
 
-
-
+---
 
 ### 📩 Contact My Email
 ###  fox9872@naver.com
 ###  kookps68@gmail.com
-
 
 
