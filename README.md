@@ -7,12 +7,6 @@
 
 ---
 
-### | Notion 
-
-<a href="https://pinnate-plywood-632.notion.site/Portfolio-e9270f6e071046c1a02a3543a305c97a?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-
----
-
 ### 🧑🏻‍💻 What am I studying ..
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
