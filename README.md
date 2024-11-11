@@ -2,6 +2,15 @@
 
 
 --- 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/kyungmin1221"
+  width="600"
+  height="300"
+/>
+</a>
+
+
 ### | BLOG 
 <a href="https://velog.io/@kyungmin" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 
