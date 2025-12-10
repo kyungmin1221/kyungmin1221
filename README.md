@@ -15,7 +15,7 @@
 ---
 
 ###  My Stats
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=kyungmin1221&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
+<img width="50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kyungmin1221&show_icons=true&theme=vision-friendly-dark" alt="GitHub Stats">
 
 
 
