@@ -1,7 +1,7 @@
 ## Career
 - KPMG Korea : Web Developer (2025.02 ~ )
-- Magic Soft : Web Developer (2024.08 ~ 2025.02)
 - Team Sparta Community Manager Activities (2024.11 ~ 2025.02)
+- Magic Soft : Web Developer (2024.08 ~ 2025.02)
 
 ## Tech Education
 - Hanghe Backend Part Plus 6th (2024.09 ~ 2024.11)
