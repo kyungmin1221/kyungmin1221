@@ -1,9 +1,3 @@
-
-#### Hello !
-#### I’m a backend developer who’s passionate about creating and applying ideas that make the world more convenient.
-#### I primarily develop using Spring Boot, JPA, MSSQL, and MySQL, and I strive to grow with a flexible and open mindset.
----
-
 ## Activities
 - KPMG Korea : Web Developer (2025.02 ~ )
 - Magic Soft : Web Developer (2024.08 ~ 2025.02)
